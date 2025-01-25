@@ -1,0 +1,2 @@
+If this at some point comes to something that you would like to try out / look at / improve etc. Note that you have to have django set up on your own computer. 
+Download and install django at: https://www.djangoproject.com/
